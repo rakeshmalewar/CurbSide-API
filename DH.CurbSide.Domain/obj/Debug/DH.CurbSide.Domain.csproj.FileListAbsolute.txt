@@ -1,0 +1,5 @@
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Domain\bin\Debug\DH.CurbSide.Domain.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Domain\bin\Debug\DH.CurbSide.Domain.pdb
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Domain\obj\Debug\DH.CurbSide.Domain.csprojResolveAssemblyReference.cache
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Domain\obj\Debug\DH.CurbSide.Domain.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Domain\obj\Debug\DH.CurbSide.Domain.pdb

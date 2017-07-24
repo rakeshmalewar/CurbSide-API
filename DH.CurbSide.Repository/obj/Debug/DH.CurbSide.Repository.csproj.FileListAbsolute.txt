@@ -1,0 +1,14 @@
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Repository.dll.config
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Repository.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Repository.pdb
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Domain.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Infrastructure.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\EntityFramework.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Domain.pdb
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\DH.CurbSide.Infrastructure.pdb
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\EntityFramework.xml
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\obj\Debug\DH.CurbSide.Repository.csprojResolveAssemblyReference.cache
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\obj\Debug\DH.CurbSide.Repository.dll
+C:\DignityHealth\DH.CurbSide\DH.CurbSide.Repository\obj\Debug\DH.CurbSide.Repository.pdb
